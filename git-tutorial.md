@@ -153,3 +153,5 @@ git merge new-feature
 ---
 
 **每完成一个任务，就用 `git push` 推送到 GitHub 查看变化！**
+
+*学习进度：已完成第一次推送！*
